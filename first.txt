@@ -7,3 +7,6 @@ this is also new
 this is also new one
 
 this is smart git
+ 
+
+this is also smart git
